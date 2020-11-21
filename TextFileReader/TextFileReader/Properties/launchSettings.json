@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "textfilereader": {
+      "commandName": "Executable",
+      "executablePath": "C:\\work\\BitBucket\\skillup\\TextFileReader\\TextFileReader\\bin\\Debug\\netcoreapp3.1\\TextFileReader.exe",
+      "commandLineArgs": "C:\\work\\SkillUp\\Bigtext.tx"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XML.ReaderApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\work\\SkillUp\\Emplpyees.xml"
+    }
+  }
+}

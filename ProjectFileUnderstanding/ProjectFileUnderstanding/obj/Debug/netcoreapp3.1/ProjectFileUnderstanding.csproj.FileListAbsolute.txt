@@ -1,0 +1,13 @@
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\bin\Debug\netcoreapp3.1\ProjectFileUnderstanding.exe
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\bin\Debug\netcoreapp3.1\ProjectFileUnderstanding.deps.json
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\bin\Debug\netcoreapp3.1\ProjectFileUnderstanding.runtimeconfig.json
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\bin\Debug\netcoreapp3.1\ProjectFileUnderstanding.runtimeconfig.dev.json
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\bin\Debug\netcoreapp3.1\ProjectFileUnderstanding.dll
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\bin\Debug\netcoreapp3.1\ProjectFileUnderstanding.pdb
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\obj\Debug\netcoreapp3.1\ProjectFileUnderstanding.csprojAssemblyReference.cache
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\obj\Debug\netcoreapp3.1\ProjectFileUnderstanding.AssemblyInfoInputs.cache
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\obj\Debug\netcoreapp3.1\ProjectFileUnderstanding.AssemblyInfo.cs
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\obj\Debug\netcoreapp3.1\ProjectFileUnderstanding.csproj.CoreCompileInputs.cache
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\obj\Debug\netcoreapp3.1\ProjectFileUnderstanding.dll
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\obj\Debug\netcoreapp3.1\ProjectFileUnderstanding.pdb
+C:\work\SkillUp\ProjectFileUnderstanding\ProjectFileUnderstanding\obj\Debug\netcoreapp3.1\ProjectFileUnderstanding.genruntimeconfig.cache

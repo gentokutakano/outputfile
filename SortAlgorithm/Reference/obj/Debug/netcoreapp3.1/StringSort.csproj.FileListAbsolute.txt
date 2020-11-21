@@ -1,0 +1,13 @@
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\bin\Debug\netcoreapp3.1\StringSort.exe
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\bin\Debug\netcoreapp3.1\StringSort.deps.json
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\bin\Debug\netcoreapp3.1\StringSort.runtimeconfig.json
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\bin\Debug\netcoreapp3.1\StringSort.runtimeconfig.dev.json
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\bin\Debug\netcoreapp3.1\StringSort.dll
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\bin\Debug\netcoreapp3.1\StringSort.pdb
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\obj\Debug\netcoreapp3.1\StringSort.csprojAssemblyReference.cache
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\obj\Debug\netcoreapp3.1\StringSort.AssemblyInfoInputs.cache
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\obj\Debug\netcoreapp3.1\StringSort.AssemblyInfo.cs
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\obj\Debug\netcoreapp3.1\StringSort.csproj.CoreCompileInputs.cache
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\obj\Debug\netcoreapp3.1\StringSort.dll
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\obj\Debug\netcoreapp3.1\StringSort.pdb
+C:\work\BitBucket\skillup\SortAlgorithm\Reference\obj\Debug\netcoreapp3.1\StringSort.genruntimeconfig.cache

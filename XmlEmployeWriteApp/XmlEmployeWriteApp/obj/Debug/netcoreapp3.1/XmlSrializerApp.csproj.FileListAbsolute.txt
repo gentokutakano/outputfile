@@ -1,0 +1,13 @@
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\obj\Debug\netcoreapp3.1\XmlSrializerApp.csprojAssemblyReference.cache
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\obj\Debug\netcoreapp3.1\XmlSrializerApp.AssemblyInfoInputs.cache
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\obj\Debug\netcoreapp3.1\XmlSrializerApp.AssemblyInfo.cs
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\obj\Debug\netcoreapp3.1\XmlSrializerApp.csproj.CoreCompileInputs.cache
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\bin\Debug\netcoreapp3.1\XmlSrializerApp.exe
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\bin\Debug\netcoreapp3.1\XmlSrializerApp.deps.json
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\bin\Debug\netcoreapp3.1\XmlSrializerApp.runtimeconfig.json
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\bin\Debug\netcoreapp3.1\XmlSrializerApp.runtimeconfig.dev.json
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\bin\Debug\netcoreapp3.1\XmlSrializerApp.dll
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\bin\Debug\netcoreapp3.1\XmlSrializerApp.pdb
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\obj\Debug\netcoreapp3.1\XmlSrializerApp.dll
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\obj\Debug\netcoreapp3.1\XmlSrializerApp.pdb
+C:\work\BitBucket\skillup\XmlSrializerApp\XmlSrializerApp\obj\Debug\netcoreapp3.1\XmlSrializerApp.genruntimeconfig.cache

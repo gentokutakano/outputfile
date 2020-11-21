@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "teOFAL/D0Gr651UlNssTvsnmZc+9OtVucupcaxLZe60cy9cDWYT0lpQ3gAox2MMmuRxntG4MBoMCLQXuKz0PkQ==",
+  "success": true,
+  "projectFilePath": "C:\\work\\BitBucket\\skillup\\XML.ReaderApp\\XML.ReaderApp\\XML.ReaderApp\\XML.ReaderApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\たかのげんとく\\.nuget\\packages\\extended.wpf.toolkit\\4.0.1\\extended.wpf.toolkit.4.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "パッケージ 'Extended.Wpf.Toolkit 4.0.1' はプロジェクトのターゲット フレームワーク '.NETCoreApp,Version=v3.1' ではなく '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' を使用して復元されました。このパッケージは、使用しているプロジェクトとの完全な互換性がない可能性があります。",
+      "libraryId": "Extended.Wpf.Toolkit",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

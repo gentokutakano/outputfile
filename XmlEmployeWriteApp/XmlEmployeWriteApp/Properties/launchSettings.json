@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XmlSrializerApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\work\\SkillUp\\TestEmplpyees.xml"
+    }
+  }
+}

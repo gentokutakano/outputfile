@@ -1,0 +1,13 @@
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\bin\Debug\netcoreapp3.1\TextFileReader.exe
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\bin\Debug\netcoreapp3.1\TextFileReader.deps.json
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\bin\Debug\netcoreapp3.1\TextFileReader.runtimeconfig.json
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\bin\Debug\netcoreapp3.1\TextFileReader.runtimeconfig.dev.json
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\bin\Debug\netcoreapp3.1\TextFileReader.dll
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\bin\Debug\netcoreapp3.1\TextFileReader.pdb
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\obj\Debug\netcoreapp3.1\TextFileReader.csprojAssemblyReference.cache
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\obj\Debug\netcoreapp3.1\TextFileReader.AssemblyInfoInputs.cache
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\obj\Debug\netcoreapp3.1\TextFileReader.AssemblyInfo.cs
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\obj\Debug\netcoreapp3.1\TextFileReader.csproj.CoreCompileInputs.cache
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\obj\Debug\netcoreapp3.1\TextFileReader.dll
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\obj\Debug\netcoreapp3.1\TextFileReader.pdb
+C:\work\BitBucket\skillup\TextFileReader\textfilereader\obj\Debug\netcoreapp3.1\TextFileReader.genruntimeconfig.cache

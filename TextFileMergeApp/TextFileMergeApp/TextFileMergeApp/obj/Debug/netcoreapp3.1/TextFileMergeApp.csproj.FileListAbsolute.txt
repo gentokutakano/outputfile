@@ -1,0 +1,13 @@
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\bin\Debug\netcoreapp3.1\TextFileMergeApp.exe
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\bin\Debug\netcoreapp3.1\TextFileMergeApp.deps.json
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\bin\Debug\netcoreapp3.1\TextFileMergeApp.runtimeconfig.json
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\bin\Debug\netcoreapp3.1\TextFileMergeApp.runtimeconfig.dev.json
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\bin\Debug\netcoreapp3.1\TextFileMergeApp.dll
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\bin\Debug\netcoreapp3.1\TextFileMergeApp.pdb
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\obj\Debug\netcoreapp3.1\TextFileMergeApp.csprojAssemblyReference.cache
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\obj\Debug\netcoreapp3.1\TextFileMergeApp.AssemblyInfoInputs.cache
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\obj\Debug\netcoreapp3.1\TextFileMergeApp.AssemblyInfo.cs
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\obj\Debug\netcoreapp3.1\TextFileMergeApp.csproj.CoreCompileInputs.cache
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\obj\Debug\netcoreapp3.1\TextFileMergeApp.dll
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\obj\Debug\netcoreapp3.1\TextFileMergeApp.pdb
+C:\work\BitBucket\skillup\TextFileMergeApp\TextFileMergeApp\TextFileMergeApp\obj\Debug\netcoreapp3.1\TextFileMergeApp.genruntimeconfig.cache

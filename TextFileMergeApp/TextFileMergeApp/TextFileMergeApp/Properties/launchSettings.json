@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TextFileMergeApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\work\\SkillUp\\MergeTest.txt C:\\work\\SkillUp\\Second.txt C:\\work\\SkillUp\\Three.txt",
+      "remoteDebugEnabled": false
+    }
+  }
+}

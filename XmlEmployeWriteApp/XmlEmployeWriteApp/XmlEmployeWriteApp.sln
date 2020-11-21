@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmlEmployeWriteApp", "XmlEmployeWriteApp.csproj", "{AA1A4C05-C533-4416-A3D6-3417ECC46868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA1A4C05-C533-4416-A3D6-3417ECC46868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1A4C05-C533-4416-A3D6-3417ECC46868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1A4C05-C533-4416-A3D6-3417ECC46868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1A4C05-C533-4416-A3D6-3417ECC46868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BF31118-EDF8-4483-AB98-0CB0979DA2C6}
+	EndGlobalSection
+EndGlobal

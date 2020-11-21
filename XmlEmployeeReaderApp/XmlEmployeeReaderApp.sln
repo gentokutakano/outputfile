@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlEmployeeReaderApp", "XmlEmployeeReaderApp\XmlEmployeeReaderApp.csproj", "{4C24AE92-589D-477A-BFCA-127BBD037165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C24AE92-589D-477A-BFCA-127BBD037165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C24AE92-589D-477A-BFCA-127BBD037165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C24AE92-589D-477A-BFCA-127BBD037165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C24AE92-589D-477A-BFCA-127BBD037165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6819539D-AA13-450C-963C-F41FA1CF41B3}
+	EndGlobalSection
+EndGlobal
